@@ -27,6 +27,12 @@
 .App-link {
   color: #61dafb;
 }
+.video
+{
+  width:"320" ;
+  height:"240" ;
+  
+}
 
 @keyframes App-logo-spin {
   from {
